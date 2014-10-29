@@ -1,0 +1,20 @@
+{
+  "name": "mechanic-id",
+  "version": "0.2.0",
+  "description": "Mechanic - uuid generator wrapper",
+  "repository": "git://github.com/ubaltaci/mechanic-id",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-uuid": "^1.4.1",
+    "shortid": "^2.0.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^1.21.5"
+  }
+}

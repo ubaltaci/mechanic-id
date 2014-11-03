@@ -1,6 +1,6 @@
 {
   "name": "mechanic-id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mechanic - uuid generator wrapper",
   "repository": "git://github.com/ubaltaci/mechanic-id",
   "main": "index.js",

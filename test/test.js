@@ -30,4 +30,12 @@ describe("Mechanic Id", function () {
         done();
     });
 
+    it(" -> generate token with 20 length", function(done) {
+        MechanicId.generateToken(function(err, token) {
+            expect(token).to.exist;
+            expect(token).to.have.length(32);
+            done();
+        });
+    });
+
 });

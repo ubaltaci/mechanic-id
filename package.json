@@ -1,6 +1,6 @@
 {
   "name": "mechanic-id",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Mechanic - uuid generator wrapper",
   "repository": "git://github.com/ubaltaci/mechanic-id",
   "main": "index.js",
@@ -16,5 +16,16 @@
   "devDependencies": {
     "chai": "^1.9.2",
     "mocha": "^1.21.5"
+  },
+  "repository": "git@github.com:ubaltaci/mechanic-id.git",
+  "author": {
+    "name": "Uğur Baltacı",
+    "email": "ugur@kns.com.tr",
+    "web": "http://www.ugurbaltaci.com"
+  },
+  "maintaners": {
+    "name": "Çağdaş Akar",
+    "email": "cagdas@kns.com.tr",
+    "web": "http://www.cagdasakar.com"
   }
 }
